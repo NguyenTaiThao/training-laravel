@@ -15,9 +15,8 @@ services:
     environment:
       - TZ=Asia/Ho_Chi_Minh
 
-  php-fpm:
+  php:
     container_name: event-php
-    image: php:8.0.5-fpm-alpine
     build:
       context: ./docker
       dockerfile: php/Dockerfile
