@@ -1,0 +1,5 @@
+172.19.0.1 - - [10/Jan/2022:14:48:07 +0700] "GET / HTTP/1.1" 200 17740 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.84 Safari/537.36" "-"
+172.19.0.1 - - [10/Jan/2022:14:48:08 +0700] "GET /favicon.ico HTTP/1.1" 200 0 "http://localhost:8955/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.84 Safari/537.36" "-"
+172.19.0.1 - - [10/Jan/2022:14:48:57 +0700] "GET / HTTP/1.1" 200 17740 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.84 Safari/537.36" "-"
+172.19.0.1 - - [10/Jan/2022:14:49:35 +0700] "POST /api/1.0/user/login HTTP/1.1" 500 601413 "-" "PostmanRuntime/7.28.4" "-"
+172.19.0.1 - - [10/Jan/2022:14:51:46 +0700] "POST /api/1.0/user/login HTTP/1.1" 200 1954 "-" "PostmanRuntime/7.28.4" "-"
